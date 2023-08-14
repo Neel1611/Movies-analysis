@@ -1,4 +1,4 @@
-### This project is aimed to analyze the data of Top 1000 Movies inn India
+### This project is aimed to analyze the data of Top 1000 Movies in India
 
   <p align="left">
   <img src="https://www.standoutessay.com/blog/wp-content/uploads/standoutessay.com/2012/02/elevated-view-clapperboard-film-reels-film-strips-camcorder-blue-wooden-backdrop-1024x683.jpg" width="450" alt="accessibility text">
